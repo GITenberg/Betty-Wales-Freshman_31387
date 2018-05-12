@@ -1,0 +1,30 @@
+_repo: Betty-Wales-Freshman_31387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunton, Edith K. (Edith Kellogg)
+    aliases:
+    - Warde, Margaret
+    - Dunton, Edith Kellogg
+    birthdate: 1875
+    gutenberg_agent_id: '35189'
+    url: http://www.gutenberg.org/2009/agents/35189
+description: '"On amateur version of Gillette''s Sherlock Holmes (p.105-116)."'
+gutenberg_issued: '2010-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Wales, Betty (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Universities and colleges -- Juvenile fiction'
+- !lcsh 'Women college students -- Juvenile fiction'
+title: Betty Wales, Freshman
+url: http://www.gutenberg.org/ebooks/31387
