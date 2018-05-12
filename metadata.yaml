@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35189'
     url: http://www.gutenberg.org/2009/agents/35189
 description: '"On amateur version of Gillette''s Sherlock Holmes (p.105-116)."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31387#Betty-Wales-Freshman
 gutenberg_issued: '2010-02-24'
 gutenberg_type: Text
 identifiers:
